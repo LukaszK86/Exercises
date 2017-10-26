@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Konflit konflikt!!!!
+=======
+Czy bedzie tu jakis konflikt?
+>>>>>>> FixIt
